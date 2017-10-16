@@ -4,7 +4,7 @@ UILogger will log all elements that are added to the screen to the console.
 
 ### Installation
 
-Simply drag `UILogger/` into your project. Import `UILogger+UIViewController.h` into your `ViewController.h`
+Simply drag `UILogger/` into your project, and then import `UILogger+UIViewController.h` into each `ViewController.h` 
 
 ### How to use
 
